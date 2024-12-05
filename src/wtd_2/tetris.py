@@ -71,7 +71,6 @@ class TetrisGame:
         self._oldPos = [Point() for _ in range(4)]
 
         # // Tetromino definitions.  
-        # // - TODO:P0 Do Not use "Tetrimino" term owned by Tetris Company
         # // - https://en.wikipedia.org/wiki/Tetromino
         self._tetrominos = array("i", [
             1, 3, 5, 7,  # I
