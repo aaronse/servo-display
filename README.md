@@ -18,7 +18,7 @@
 
   ## WTD 2.0 Design
   
-  TODO:...
+  TODO:...  Captured a bunch of video footage of the build.  Ping me via the discussion or on YouTube if interested and I'll try to edit and share montage and/or how to build a WTD guide/tutorial.
 
   ## WTD 2.0 Code
 
