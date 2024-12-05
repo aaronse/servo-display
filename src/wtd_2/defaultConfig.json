@@ -1,0 +1,14 @@
+// Default Configuration settings
+
+// NOTE:
+// - Comments here are not valid JSON, config parser will ignore.
+
+{
+    "configVersion": 1,
+    "width": 16,
+    "height": 12,
+
+    "defaultTask": "mode tetris"
+
+    // - DO NOT use trailing comma for last entry to avoid JSON parser fail.
+}
