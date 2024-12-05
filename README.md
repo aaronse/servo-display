@@ -14,6 +14,7 @@
   - Cord Protector Wire Loom Tubing, e.g. 1/2" like https://www.amazon.com/gp/product/B07FXF12HC
   - 22AWG 6 pin wire cable to connect https://www.amazon.com/gp/product/B07T6LCZKJ
   - PCA9685 16 Channel Servo Driver, personally [ordered and tried a few different versions](img/parts-pca9685-16ch-servo-driver.png) after running into problems with some of the PCA9685 boards, ⚠️ watch [smoking PCA9685 YouTube Short](https://www.youtube.com/shorts/FOoa_OAFeZs), looks like the MOSFETs that some PCA9685 boards have (for reverse voltage protection) can get really hot, blue smoke and die when large current is drawn.  Shared more details on this and related info in the [V1E Forum Topic - Blue smoke ‘n Fire fun with I2C 16 Channel PCA9685 Servo board with SG90](https://forum.v1e.com/t/blue-smoke-n-fire-fun-with-i2c-16-channel-pca9685-servo-board-with-sg90/42481). 
+  - T Tap Wire Connectors, solderless no stripping, https://www.amazon.com/gp/product/B07114RK67
 
   ## WTD 2.0 Design
   
